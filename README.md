@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 ## How To Contribute
 
 Dont!
+
+I'm learning git 2017!
